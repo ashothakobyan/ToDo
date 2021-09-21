@@ -1,0 +1,40 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family:cursive;
+}
+body{
+    background-color: rgb(212, 212, 212);
+}
+p{
+    text-align: center;
+    padding: 20px 60px;
+    font-size:xx-large;
+}
+#in{
+    border: 2px solid;
+    display: flex;
+    width: 40%;
+    height: 50px;s
+}
+.div1{
+    display: flex;
+    margin-left: 38%;
+}
+.li{
+    border: 2px solid;
+    display: flex;
+    margin: 2px 0;
+    align-items: center;
+    margin: 10px 50px;
+    
+}
+.btn{
+    margin-left: auto;
+}
+.t{
+    margin: 10px 0;
+    margin-left: 50px;
+}
